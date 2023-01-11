@@ -2,10 +2,12 @@ pyrogram==1.4.16
 TgCrypto
 hachoir
 Pillow
-aiohttp
 motor
 dnspython
 aiofiles
 psutil
 pyromod
 humanfriendly
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
